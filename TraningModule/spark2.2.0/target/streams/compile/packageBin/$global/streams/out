@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\spark2-2-0_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Sentiment$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example\Sentiment$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Sentiment$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example\Sentiment$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example\Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Sentiment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example\Sentiment$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Greeting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example\Greeting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Sentiment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example\Sentiment.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Greeting$class.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example\Greeting$class.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example\Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Sentiment$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example\Sentiment$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\eugene\eclipse-workspace\spark2.2.0\target\scala-2.11\classes\example\Hello.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
